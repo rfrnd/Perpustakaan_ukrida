@@ -1,4 +1,4 @@
-S istem Manajemen Perpustakaan Elektronik Ukrida  
+Sistem Manajemen Perpustakaan Elektronik Ukrida  
 
 ## Daftar Isi
 
